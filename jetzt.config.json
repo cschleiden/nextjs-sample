@@ -1,0 +1,11 @@
+{
+  "functionApp": {
+    "subscriptionId": "9cd14f4c-dddc-40b2-b671-61fd667e0937",
+    "location": "westcentralus",
+    "name": "nextjs-sample",
+    "resourceGroup": "nextjs-sample-rg"
+  },
+  "storage": {
+    "account": "nextjssamplestorage"
+  }
+}
